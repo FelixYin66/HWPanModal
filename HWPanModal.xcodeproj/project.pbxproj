@@ -890,7 +890,7 @@
 					};
 					B8CF43BF1F90C2C500389BFE = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = K4R83Q5KV5;
+						DevelopmentTeam = SR52437D77;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -1325,7 +1325,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = NO;
-				DEVELOPMENT_TEAM = K4R83Q5KV5;
+				DEVELOPMENT_TEAM = SR52437D77;
 				INFOPLIST_FILE = "$(SRCROOT)/Demo/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -1340,7 +1340,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = NO;
-				DEVELOPMENT_TEAM = K4R83Q5KV5;
+				DEVELOPMENT_TEAM = SR52437D77;
 				INFOPLIST_FILE = "$(SRCROOT)/Demo/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
